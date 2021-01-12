@@ -104,11 +104,11 @@ while True:
     else:
         print("Upss ada yang salah, silahkan cek kembali.")
 
-Output:
+Outputt:
 
 Tambah data
 
-output-praktikum-5
+![soal_UAS](gambar/1.PNG)
 
 Ubah data
 
